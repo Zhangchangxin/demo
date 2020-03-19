@@ -6,3 +6,4 @@ console.log("欢迎光零");
 qw
 2
 
+qea
